@@ -351,7 +351,4 @@ spring.datasource.druid.second.driver-class-name=com.mysql.jdbc.Driver
     
     
 ---
-源码地址 [传送门][1]
 
-
-  [1]: https://github.com/pomestyle/SpringBootDuridDemo
